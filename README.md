@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Genius-Raptor
 - 👀 I’m interested in python projects
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning flask
 - 💞️ I’m looking to collaborate on any python project
 - 📫 How to reach me ... idk
 
